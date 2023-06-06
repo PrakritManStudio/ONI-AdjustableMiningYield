@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjustableMiningYield", "AdjustableMiningYield\AdjustableMiningYield.csproj", "{0E88CDDE-CCA7-481E-8621-06DC39387767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E88CDDE-CCA7-481E-8621-06DC39387767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E88CDDE-CCA7-481E-8621-06DC39387767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E88CDDE-CCA7-481E-8621-06DC39387767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E88CDDE-CCA7-481E-8621-06DC39387767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F45E65-9449-4DAE-9298-86E07ED52055}
+	EndGlobalSection
+EndGlobal
