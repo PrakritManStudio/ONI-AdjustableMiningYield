@@ -42,6 +42,9 @@ namespace AdjustableMiningYield
                             case DuplicantSightRange.V50:
                                 yValue = 0.5f;
                                 break;
+                            case DuplicantSightRange.V55:
+                                yValue = 0.55f;
+                                break;
                             case DuplicantSightRange.V60:
                                 yValue = 0.6f;
                                 break;

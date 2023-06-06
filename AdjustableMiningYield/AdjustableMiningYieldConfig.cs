@@ -8,6 +8,8 @@ namespace AdjustableMiningYield
         V35 = 35,
         [Option("50% Default")]
         V50 = 50,
+        [Option("55%")]
+        V55 = 55,
         [Option("60%")]
         V60 = 60,
         [Option("75%")]
